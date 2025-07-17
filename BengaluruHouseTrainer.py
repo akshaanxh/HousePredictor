@@ -20,7 +20,7 @@ from sklearn.preprocessing import LabelEncoder
 import pickle
 
 # 📌 2. Load Dataset
-df = pd.read_csv("C:/Users/HII/Desktop/MACHINE LEARNING/ML PROJECTS/House_Price Predictor/Bengaluru_House_Data.csv")
+df = pd.read_csv("Bengaluru_House_Data.csv")
 
 # 📌 3. Preprocess
 df = df.dropna()
