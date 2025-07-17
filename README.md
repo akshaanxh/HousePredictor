@@ -18,10 +18,6 @@
 
 ---
 
-## 🖼️ Preview
-
-![UI Screenshot](assets/preview.png)
-
 ---
 
 ## 🛠️ Tech Stack
