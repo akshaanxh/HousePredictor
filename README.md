@@ -1,21 +1,46 @@
-# Bengaluru House Price Predictor
+# 🏠 Bengaluru House Price Predictor
 
-A minimal yet beautiful machine learning web app to predict house prices in Bengaluru using a linear regression model. Built using Streamlit with a clean glassmorphism interface.
+> 🌆 *A modern and interactive ML-powered app to estimate property prices in Bengaluru.*  
+> Built with 💡 **Streamlit**, 🧠 **Scikit-learn**, and a sleek **glassmorphism UI**.
 
-## Features
+[![Streamlit App](https://img.shields.io/badge/🚀%20Live%20App-Click%20Here-brightgreen?style=for-the-badge)](https://housepredictor-dyyk36n9dpxqwdwjhsqdaa.streamlit.app/)  
+[![MIT License](https://img.shields.io/github/license/akshaanxh/HousePredictor?style=flat-square)](LICENSE)
 
-- Predict house prices based on input features
-- Location input via dropdown or interactive map
-- Light and dark theme toggle
-- Custom glass UI using HTML/CSS
-- Model trained on Bengaluru housing data
+---
 
-## Installation
+## ✨ Features
 
-1. Clone the repository:
+🔹 Predict house prices in Bengaluru using linear regression  
+🔹 Clean **glass-style UI** with light/dark theme toggle  
+🔹 Location input via searchable dropdown  
+🔹 Instant, real-time results  
+🔹 Built for speed, elegance, and simplicity
 
-   git clone https://github.com/akshaanxh/HousePredictor.git
-   cd HousePredictor
+---
+
+## 🖼️ Preview
+
+![UI Screenshot](assets/preview.png)
+
+---
+
+## 🛠️ Tech Stack
+
+| Layer        | Tools Used                              |
+|--------------|------------------------------------------|
+| **Frontend** | Streamlit, HTML/CSS (Glassmorphism)      |
+| **Backend**  | Python, Pandas, NumPy, Scikit-learn      |
+| **ML Model** | Linear Regression (trained on real data) |
+| **Hosting**  | Streamlit Cloud                          |
+
+---
+
+## 🚀 Getting Started
+
+### 1. Clone the Repository
+
+git clone https://github.com/akshaanxh/HousePredictor.git
+cd HousePredictor
 
 2. (Optional) Create and activate a virtual environment:
 
